@@ -7,8 +7,7 @@ const Home = () => {
     console.log('This is a server side component')
     return (
         <main>
-        <div className='text-5xl underline '>Welcome to NextJS</div>
-        <Hello/>
+        <h1 className='text-5xl underline '>Welcome to NextJS 16 !</h1>
         </main>
     )
 }
